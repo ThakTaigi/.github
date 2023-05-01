@@ -5,9 +5,11 @@ ChhoeTaigi 台文冊冊tha̍k-á
 - 1895-1945 Ji̍t-pún Sî-tāi Tan-gí Miâ-lūi Chi̍p 日本時代單語名彙集
   - [1895 臺灣語 田內八百久万 太田組事務所](https://thak.taigi.info/1895Taioangi/)
   - [1896 臺灣土語全書 田部七郎 蔡章機](https://thak.taigi.info/1896TaioanThoogiChoansu/)
-  - [1905 臨時臺灣戶口調查職業名字彙 臺灣總督府](http://thak.taigi.info/1905ChitgiapMiaJilui/)
+  - [1905 臨時臺灣戶口調查職業名字彙 臺灣總督府](http://thak.taigi.info/1905TaioanChitgiapMiaJilui/)
+  - [1922 第一回臺灣國勢調査 第三次臨時臺灣戶口調査 職業名字彙 臺灣總督府](https://thak.taigi.info/1922TaioanChitgiapMiaJilui/)
+  - [1922 臺灣語典 岩崎敬太郎 新高堂書局](https://github.com/ThakTaigi/1922TaioangiTian)
+  - [1928 臺灣植物名彙 佐佐木舜一 臺灣博物學會](https://thak.taigi.info/1928TaioanSitbutMialui/)
 - [1913 甘字典 甘為霖 William Campbell 台灣教會公報社](https://thak.taigi.info/1913KamJitian/)
-- [1928 臺灣植物名彙 佐佐木舜一 臺灣博物學會](https://thak.taigi.info/1928TaioanSitbutMialui/)
 - [1931 臺日大辭典 上卷 小川尚義 臺灣總督府](https://thak.taigi.info/1931TaijitToaSutian1/)
 - [1932 臺日大辭典 下卷 小川尚義 臺灣總督府](https://thak.taigi.info/1932TaijitToaSutian2/)
 - [1957 台灣語常用語彙 Ông Io̍k-tek 王育德 永和語學社](https://thak.taigi.info/1957TaioangiSiongiongGilui/)
