@@ -1,2 +1,3 @@
 # .github
-Tha̍k Tâi-gí Chheh 讀台語冊 Sek-ín 索引
+ChhoeTaigi Tâi-bûn Chheh Chheh-tha̍k-á
+ChhoeTaigi 台文冊冊tha̍k-á
