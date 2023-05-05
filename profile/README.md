@@ -4,6 +4,7 @@ ChhoeTaigi 台文冊冊tha̍k-á
 ## Sek-ín 索引
 - 1895-1945 Ji̍t-pún Sî-tāi Tan-gí Miâ-lūi Chi̍p 日本時代單語名彙集
   - [1895 臺灣語 田內八百久万 太田組事務所](https://thak.taigi.info/1895Taioangi/)
+  - [1896 日臺會話大全 水上梅彥](https://thak.taigi.info/1896JittaiHoeoeTaichoan/)
   - [1896 臺灣土語全書 田部七郎 蔡章機](https://thak.taigi.info/1896TaioanThoogiChoansu/)
   - [1905 臺灣職業名字彙 (臨時臺灣戶口調查職業名字彙) 臺灣總督府](http://thak.taigi.info/1905TaioanChitgiapMiaJilui/)
   - [1922 臺灣職業名字彙 (第一回臺灣國勢調査 第三次臨時臺灣戶口調査 職業名字彙) 臺灣總督府](https://thak.taigi.info/1922TaioanChitgiapMiaJilui/)
