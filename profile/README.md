@@ -8,7 +8,7 @@ ChhoeTaigi 台文冊冊tha̍k-á
   - [1896 臺灣土語全書 田部七郎 蔡章機](https://thak.taigi.info/1896TaioanThoogiChoansu/)
   - [1905 臺灣職業名字彙 (臨時臺灣戶口調查職業名字彙) 臺灣總督府](http://thak.taigi.info/1905TaioanChitgiapMiaJilui/)
   - [1922 臺灣職業名字彙 (第一回臺灣國勢調査 第三次臨時臺灣戶口調査 職業名字彙) 臺灣總督府](https://thak.taigi.info/1922TaioanChitgiapMiaJilui/)
-  - [1922 臺灣語典 岩崎敬太郎 新高堂書局](https://github.com/ThakTaigi/1922TaioangiTian)
+  - [1922 臺灣語典 岩崎敬太郎 新高堂書局](https://thak.taigi.info/1922TaioangiTian/)
   - [1923 專賣局臺灣語典 第二篇 腦務 臺灣總督府專賣局](https://thak.taigi.info/1923ChoanbekiokTaioangiTianLobu/)
   - [1926 銀行台語會話 張文典](https://thak.taigi.info/1926GinhangTaigiHoeoe/)
   - [1928 臺灣植物名彙 佐佐木舜一 臺灣博物學會](https://thak.taigi.info/1928TaioanSitbutMialui/)
