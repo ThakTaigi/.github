@@ -25,7 +25,7 @@ ChhoeTaigi 台文冊冊tha̍k-á
   - [1923 專賣局臺灣語典 第二篇 腦務 臺灣總督府專賣局](https://thak.taigi.info/1923ChoanbekiokTaioangiTianLobu/)
   - [1926 銀行台語會話 張文典](https://thak.taigi.info/1926GinhangTaigiHoeoe/)
   - [1928 臺灣植物名彙 佐佐木舜一 臺灣博物學會](https://thak.taigi.info/1928TaioanSitbutMialui/)
-  - [1933 臺灣稻在來品種名彙 徐慶鐘 臺灣農事報](https://thak.taigi.info/1933TaioanTiuChailaiPhinchengMialui/)
+  - [1933 臺灣稻在來品種名彙 (羅馬字綴臺灣語讀) 徐慶鐘 臺灣農事報](https://thak.taigi.info/1933TaioanTiuChailaiPhinchengMialui/)
   
 - Pe̍h-ōe-jī Bûn-hiàn 白話字文獻
   - Siáu-soat 小說
